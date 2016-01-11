@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<layers>
+  <layer
+      name="collective.framework7"
+      interface="collective.framework7.interfaces.ICollectiveFramework7Layer"
+      />
+</layers>

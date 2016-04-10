@@ -19,14 +19,14 @@ long_description = (
 
 setup(
     name='collective.framework7',
-    version='1.4.0a1',
+    version='1.4.2rc0',
     description="Framework7 packaged for Plone",
     long_description=long_description,
     # Get more from http://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
         "Environment :: Web Environment",
         "Framework :: Plone",
-        "Framework :: Plone :: 4.3.7",
+        "Framework :: Plone :: 4.3.9",
         "Programming Language :: Python",
         "Programming Language :: Python :: 2.7",
         "Operating System :: OS Independent",
